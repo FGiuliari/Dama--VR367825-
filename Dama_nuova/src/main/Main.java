@@ -19,7 +19,7 @@ import logica.Partita;
 public class Main extends JFrame {
     private Partita p;
 
-    /* prova */
+    // a
     public Main() {
 
 	this.setSize(600, 600);
