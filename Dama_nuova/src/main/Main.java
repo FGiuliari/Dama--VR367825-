@@ -16,7 +16,6 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 import logica.Partita;
 
-//main
 public class Main extends JFrame {
     private Partita p;
 
